@@ -6,6 +6,6 @@ setup(
 	author= 'Kristofer R. Söderström',
 	description='Companion package for article "ARTICLE_NAME" published \
 	in "JOURNAL NAME", LICENSE_TYPE, CITATION', #ADD MORE INFO HERE,
-	install_requires=['re', 'pandas', 'numpy', 'tqdm', 'geopy'],
+	install_requires=['pandas', 'numpy', 'tqdm', 'geopy'],
 	packages=find_packages(exclude=['test'])
  	)
