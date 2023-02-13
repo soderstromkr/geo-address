@@ -11,6 +11,6 @@ if __name__ == "__main__":
 		author= 'Kristofer R. Söderström',
 		description='Companion package for article "ARTICLE_NAME" published \
 		in "JOURNAL NAME", LICENSE_TYPE, CITATION', #ADD MORE INFO HERE,
-		install_requires=['re', 'pandas', 'numpy', 'tqdm', 'geopy', 'pickle'],
+		install_requires=['re', 'pandas', 'numpy', 'tqdm', 'geopy'],
 		packages=["geo_address"]
  	)
