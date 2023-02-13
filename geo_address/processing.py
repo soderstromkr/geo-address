@@ -1,5 +1,5 @@
 from geopy.geocoders import GoogleV3 #import your preferred API here
-
+import os 
 import pandas as pd 
 import numpy as np
 
@@ -85,6 +85,9 @@ def begin_geocode(df):
     #load API key
     with open('geo_address/API_key.txt') as f:
         api = f.read()
+
+    if not os.path.exists('geo_address/checkpoints'):
+        os.mkdir('geo_address/checkpoints') 
 
     locator = GoogleV3(api_key=api) # choose geocoder here
     print('Using {} geocoder from geopy'.format(locator))
