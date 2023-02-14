@@ -1,6 +1,6 @@
 # geo-address
 1. Dissagregates authors addresses from Web of Science (WoS) data.   
-1. Geocode and mapping examples included in the example notebooks.     
+1. Geocode and mapping examples included in the example notebooks.    
 Install options:
 ```
 git clone https://github.com/soderstromkr/geo-address.git
