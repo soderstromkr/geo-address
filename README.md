@@ -25,3 +25,6 @@ Uses python 3.x.x
 - pickle
 ## Example
 See [here](example.ipynb) for an example (in-progress).
+## Recommendations
+- Current geocoder gave the best results in paper.
+- begin_geocode() creates a checkpoint folder to keep track of progress, which can be re-started. (Make sure to delete the checkpoint file if doing a new run or project.)
