@@ -1,6 +1,6 @@
 # geoaddress (in-progress)
 ## Description
-Dissagregates and geocodes author addresses from Web of Science (WoS) data or addresses with the following form:
+Dissagregates and geocodes author addresses from Web of Science (WoS) data and/or any address with the following form:
 ```
 [Authors] Address;  
 ```
