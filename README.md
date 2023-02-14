@@ -28,7 +28,9 @@ Uses python 3.x.x
 - tqdm
 - geopy
 - re
-- pickle
+- pickle 
+- sklearn
+-	haversine
 ## Example
 See [here](example.ipynb) for an example (in-progress).
 ## Recommendations
