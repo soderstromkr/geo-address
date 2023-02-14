@@ -4,7 +4,9 @@ Dissagregates and geocodes author addresses from Web of Science (WoS) data and/o
 ```
 [Authors] Address;  
 ```
-Geocoding done with the geopy package (More info below).
+Geocoding done with the geopy package (More info below).    
+## More functionality
+- distance measurements between addresses and to a point of origin
 Code for paper (in progress): The spatial distribution of big science: A methodology for disaggregating and geocoding address fields (Working title)
 ## Important info
 - This package uses geopy for the geocoding module. See [geopy's documentation](https://geopy.readthedocs.io/en/stable/) for more info. 
