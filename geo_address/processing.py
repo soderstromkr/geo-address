@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 import pickle
 
-def split_address(df,column_name):
+def split_address(df,column_name): #Dissagregation step
    
     "Module takes Web of Science addresses \
      with the format '[Author(s)]Address' \
@@ -69,7 +69,7 @@ def split_address(df,column_name):
     return df 
 
 
-def begin_geocode(df):
+def begin_geocode(df):#Geocoding step
     
     """
     Main geocoding loop.
