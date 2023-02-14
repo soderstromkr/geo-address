@@ -1,4 +1,4 @@
-# geo-address
+# geo-address (in-progress)
 1. Dissagregates authors addresses from Web of Science (WoS) data.   
 1. Geocode and mapping examples included in the example notebooks.   
 Install options:
