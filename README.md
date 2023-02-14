@@ -15,6 +15,13 @@ or
 pip install git+https://github.com/soderstromkr/geo-address.git
 ```
 Draft in progress: The spatial distribution of big science: A methodology for disaggregating and geocoding address fields (Working title)
-
+## Requirements
+Uses python 3.x.x
+- pandas
+- numpy
+- tqdm
+- geopy
+- re
+- pickle
 ## Example
 See [here](example.ipynb) for an example (in-progress).
