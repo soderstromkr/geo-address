@@ -1,4 +1,4 @@
-from geopy.geocoders import GoogleV3 #import your preferred API here
+from geopy.geocoders import GoogleV3 #import your preferred geocoder
 import os 
 import pandas as pd 
 import numpy as np
@@ -82,7 +82,7 @@ def begin_geocode(df):
     
     """
 
-    #load API key
+    #load API key needed
     with open('geo_address/API_key.txt') as f:
         api = f.read()
 
