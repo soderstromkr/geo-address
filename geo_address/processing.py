@@ -192,6 +192,7 @@ def to_coord_data(df): #input df with coordinates and distances
         data
         )
     map_df['Fractional pubs'] = f_p_l
+    map_df = map_df.rename(columns={'Addresses':'Address'})
     #split lat, lon
     #lat_lon = map_df['Coordinates'].str.split(',', expand=True)
     #lat_lon = lat_lon.rename(columns={0:'lat',1:'lon'})
