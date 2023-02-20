@@ -15,11 +15,11 @@ Geocoding done with the geopy package (More info below).
 - You can also change the geocoder [here](geo_address/processing.py) if you prefer.
 ## Installation
 ```
-git clone https://github.com/soderstromkr/geo-address.git
+git clone https://github.com/soderstromkr/geoaddress.git
 ```
 or
 ```
-pip install git+https://github.com/soderstromkr/geo-address.git
+pip install git+https://github.com/soderstromkr/geoaddress.git
 ```
 ## Requirements
 Uses python 3.x.x
