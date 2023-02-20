@@ -9,18 +9,25 @@ Geocoding done with the geopy package (More info below).
 ## More functionality
 - distance measurements between addresses and to a point of origin
 ## Important info
-- This package uses geopy for the geocoding module. See [geopy's documentation](https://geopy.readthedocs.io/en/stable/) for more info. 
+This package uses geopy for the geocoding module. See [geopy's documentation](https://geopy.readthedocs.io/en/stable/) for more info. 
 - This example uses the GoogleV3 API, which needs an API Key. Read [here](https://developers.google.com/maps/documentation/geocoding/). 
 - Make sure you include an API key [here](geo_address/API_key.txt) if needed.
 - You can also change the geocoder [here](geo_address/processing.py) if you prefer.
 ## Installation
 ```
-git clone https://github.com/soderstromkr/geo-address.git
+git clone https://github.com/soderstromkr/geoaddress.git
+cd geoaddress
+python setup.py install
 ```
 or
 ```
-pip install git+https://github.com/soderstromkr/geo-address.git
+pip install git+https://github.com/soderstromkr/geoaddress.git
 ```
+## Usage
+```
+from geo_address import *
+```
+or see [here](example.ipynb) for an example (in-progress).
 ## Requirements
 Uses python 3.x.x
 - pandas
@@ -31,8 +38,6 @@ Uses python 3.x.x
 - pickle 
 - sklearn
 -	haversine
-## Example
-See [here](example.ipynb) for an example (in-progress).
 ## Recommendations
 - Current geocoder gave the best results in paper.
 - begin_geocode() creates a checkpoint folder to keep track of progress, which can be re-started. (Make sure to delete the checkpoint file if doing a new run or project.)
