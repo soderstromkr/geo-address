@@ -14,14 +14,11 @@ This package uses geopy for the geocoding module. See [geopy's documentation](ht
 - Make sure you include an API key [here](geo_address/API_key.txt) if needed.
 - You can also change the geocoder [here](geo_address/processing.py) if you prefer.
 ## Installation
+**Recommended**, since changing some files is necessary, i.e. API text file. 
 ```
 git clone https://github.com/soderstromkr/geoaddress.git
 cd geoaddress
 python setup.py install
-```
-or
-```
-pip install git+https://github.com/soderstromkr/geoaddress.git
 ```
 ## Usage
 ```
