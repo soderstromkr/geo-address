@@ -6,7 +6,7 @@ List of figures:
 4. [Figure 3b](viz/fig3b_color_time.html). All unweighted publications, density plot.
 5. [Figure 4a-b](viz/fig4ab_color_time.html). All weighted publications, ocurrences.
 6. [Figure 4c-d](viz/fig4cd_color_time.html). All weighted publications, multiplier.
-7. [Figure 4e-f](viz/fig4cef_color_time.html). All weighted publications, fractional publications.
+7. [Figure 4e-f](viz/fig4ef_color_time.html). All weighted publications, fractional publications.
 8. [Figure 6a-b](viz/fig6ab_color_time.html). BM14 weighted publications, ocurrences.
 9. [Figure 6c-d](viz/fig6cd_color_time.html). BM14 weighted publications, multiplier.
 10. [Figure 6e-f](viz/fig6ef_color_time.html). BM14 weighted publications, fractional publications.
