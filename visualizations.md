@@ -13,9 +13,7 @@ List of figures:
 
 
 |[Figure 1a-b](viz/fig1_color.html)|
-| [![img](fig1a.png)](viz/fig1_color.html)|
-
-<img src='fig1a.png' alt="Fig 1a-b", width="50%" height="50%">
+| [![img](fig1a.png = 200x200)](viz/fig1_color.html)|
 
 |[Figure 3a](viz/fig3a_color_time.html)||[Figure 3b](viz/fig3b_color_time.html)|
 | [![img](fig3a.png)](viz/fig3a_color_time.html) || [![img](fig3b.png)](viz/fig3b_color_time.html) |
