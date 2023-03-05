@@ -9,9 +9,11 @@ List of figures:
 7. [Figure 4e-f](viz/fig4cef_color_time.html). All weighted publications, fractional publications.
 8. [Figure 6a-b](viz/fig6ab_color_time.html). BM14 weighted publications, ocurrences.
 9. [Figure 6c-d](viz/fig6cd_color_time.html). BM14 weighted publications, multiplier.
-10. [Figure 6e-f](viz/fig6cef_color_time.html). BM14 weighted publications, fractional publications.
+10. [Figure 6e-f](viz/fig6ef_color_time.html). BM14 weighted publications, fractional publications.
+11. [Figure 7ab](viz/fig7ab_color_time.html). BM14 unweighted publications, collaborations.
 
-[Figure 1a-b](viz/fig1_color.html)
+
+|[Figure 1a-b](viz/fig1_color.html)|
 | [![img](fig1a.png){:height="50%" width="50%"}](viz/fig1_color.html)|
 
 |[Figure 3a](viz/fig3a_color_time.html)||[Figure 3b](viz/fig3b_color_time.html)|
@@ -23,8 +25,8 @@ List of figures:
 |[Figure 6a-b](viz/fig6ab_color_time.html)||[Figure 6c-d](viz/fig6cd_color_time.html)||[Figure 6e-f](viz/fig6ef_color_time.html)|
 | [![img](fig6a.png)](viz/fig6ab_color_time.html) || [![img](fig6c.png)](viz/fig6cd_color_time.html) || [![img](fig6e.png)](viz/fig6ef_color_time.html) |
 
-[Figure 7ab](viz/fig7ab_color_time.html)
-| [![img](fig7.png){:height="50%" width="50%"}](viz/fig7ab_color_time.html) |
+|[Figure 7ab](viz/fig7ab_color_time.html)|
+| [![img](fig7a.png){:height="50%" width="50%"}](viz/fig7ab_color_time.html) |
 
 
 
