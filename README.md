@@ -1,4 +1,6 @@
-# geoaddress
+---
+title: geoaddress
+---
 ## Description
 Code for paper (in progress): The spatial distribution of big science: A methodology for disaggregating and geocoding address fields (Working title).    
 Dissagregates and geocodes author addresses from Web of Science (WoS) data and/or any address with the following form:
