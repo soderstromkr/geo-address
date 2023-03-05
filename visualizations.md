@@ -1,5 +1,6 @@
-## Interactive visualizations for "Global reach, regional strength: Spatial patterns of a big science facility."
- 
+---
+title:Interactive visualizations for "Global reach, regional strength: Spatial patterns of a big science facility."
+---
 You can access the interactive and colored version of the maps for selected figures from the article below:
 
 |[Figure 1(a-b)](viz/fig1_color.html)|
