@@ -1,7 +1,7 @@
 ## Code description
 Code for paper (submitted): "Global reach, regional strength: Spatial patterns of a big science facility."\
 ## Paper interactive visualizations.
-To see the interactive visualizations, see the [visualizations](/visualizations]page
+To see the interactive visualizations, see the [visualizations](/visualizations)page
 ## How it works
 Dissagregates and geocodes author addresses from Web of Science (WoS) data and/or any address with the following form:
 ```
