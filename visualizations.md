@@ -1,6 +1,8 @@
 ## Interactive visualizations for "Global reach, regional strength: Spatial patterns of a big science facility."
 Click on any of the figure names or static images to open the interactive version.  
 
+[Testing](./soderstromkr.github.io/spatial_viz/interactive/fig1_color.html)
+
 List of figures:
 1. [Figure 1a-b](viz/fig1_color.html). Top 10 locations. 
 2. [Figure 3a](viz/fig3a_color_time.html). All unweighted publications.
