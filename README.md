@@ -8,8 +8,8 @@ To see the interactive visualizations, see the [visualizations](visualizations.m
 ```
 [Authors] Address;  
 ```
-But it should find addresses and other named locations in the Address column.  
-Geocoding is done with the geopy package (More info below).    
+* It also find addresses and other named locations in the Address column, but won't be able to calculate aggregation metrics without x in [x] y;  
+* Geocoding is done with the geopy package (More info below).    
 ## More functionality
 - distance measurements between addresses and to a point of origin
 ## Important info
