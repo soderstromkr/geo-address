@@ -4,11 +4,12 @@ Code for paper (submitted): "Global reach, regional strength: Spatial patterns o
 ## Interactive visualizations.
 To see the interactive visualizations, see the [visualizations](visualizations.md) page
 ## How it works
-Dissagregates and geocodes author addresses from Web of Science (WoS) data and/or any address with the following form:
+* Dissagregates and geocodes author addresses from Web of Science (WoS) publication data, using the column DOI to uniquely identify publications. Full functionality with any address with the following form:
 ```
 [Authors] Address;  
-```
-Geocoding done with the geopy package (More info below).    
+``
+But it should find addresses and other named locations in the Address column.  
+Geocoding is done with the geopy package (More info below).    
 ## More functionality
 - distance measurements between addresses and to a point of origin
 ## Important info
