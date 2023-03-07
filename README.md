@@ -28,7 +28,7 @@ python setup.py install
 ```
 from geo_address import *
 ```
-or see [here](https://github.com/soderstromkr/geoaddress/blob/main/example.ipynb) for an example.
+or see [here](https://github.com/soderstromkr/geoaddress/blob/main/example.ipynb) for an example that includes visualizations.
 ## Requirements
 Uses python 3.x.x
 - pandas
