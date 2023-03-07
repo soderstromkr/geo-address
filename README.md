@@ -7,7 +7,7 @@ To see the interactive visualizations, see the [visualizations](visualizations.m
 * Dissagregates and geocodes author addresses from Web of Science (WoS) publication data, using the column DOI to uniquely identify publications. Full functionality with any address with the following form:
 ```
 [Authors] Address;  
-``
+```
 But it should find addresses and other named locations in the Address column.  
 Geocoding is done with the geopy package (More info below).    
 ## More functionality
