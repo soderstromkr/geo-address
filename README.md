@@ -22,7 +22,8 @@ This package uses geopy for the geocoding module. See [geopy's documentation](ht
 ```
 git clone https://github.com/soderstromkr/geoaddress.git
 cd geoaddress
-python setup.py install
+pip install -e . 
+**Note**: You might need administration rights, adding --user to the end of the previous command should take care of that.
 ```
 ## Usage
 ```
