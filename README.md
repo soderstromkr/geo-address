@@ -1,6 +1,6 @@
 ## [Go to GitHub repository](https://github.com/soderstromkr/geoaddress/)
 ## Code description
-Code for paper (accepted): "Global reach, regional strength: Spatial patterns of a big science facility." DOI: 10.1002/asi.24811
+Code for paper ; ["Global reach, regional strength: Spatial patterns of a big science facility." DOI: 10.1002/asi.24811](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24811)
 ## Interactive visualizations.
 To see the interactive visualizations, see the [visualizations](visualizations.md) page
 ## How it works
