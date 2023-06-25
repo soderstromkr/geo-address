@@ -23,8 +23,9 @@ This package uses geopy for the geocoding module. See [geopy's documentation](ht
 git clone https://github.com/soderstromkr/geoaddress.git
 cd geoaddress
 pip install -e . 
-**Note**: You might need administration rights, adding --user to the end of the previous command should take care of that.
 ```
+**Note**: You might need administration rights, adding --user to the end of the previous command should take care of that.
+
 ## Usage
 ```
 from geo_address import *
