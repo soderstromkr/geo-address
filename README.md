@@ -24,6 +24,10 @@ git clone https://github.com/soderstromkr/geoaddress.git
 cd geoaddress
 pip install -e . 
 ```
+Or
+```
+pip install git+https://github.com/soderstromkr/geoaddress.git
+```
 **Note**: You might need administration rights, adding --user to the end of the previous command should take care of that.
 
 ## Usage
